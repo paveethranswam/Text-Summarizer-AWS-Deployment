@@ -1,8 +1,10 @@
+# Custom file to setup path directories and folder structures
 import os
 from pathlib import Path # Handles filenames with proper slashes specific to every os and give correct filename paths
 import logging
 
-logging.basicConfig(level = logging.INFO, format='[%(asctime)s] @ [%(levelname)s] : %(message)s', )
+logging_str = '[%(asctime)s] @ [%(levelname)s] : %(message)s'
+logging.basicConfig(level = logging.INFO, format= logging_str )
 
 # 1. To install this project as a package in python, we need to package the code as a py file. And to do this, we need to specify 
 # import instructions in __init__.py file. Other packages are components and utils.

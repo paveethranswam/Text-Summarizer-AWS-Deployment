@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2023-08-15T23:35:34.614095",
+    "startedAt": "2023-08-15T23:35:20.509423",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/paveethranswam/Text-Summarizer-AWS-Deployment.git",
+        "commit": "fb3012fa061dc04f4c693d5b871d7300d918a8e5"
+    },
+    "email": "paswam@iu.edu",
+    "root": "C:/Users/papu_/OneDrive/Desktop/University Courses/3rd Semester/AWS ML Speciality/Text-Summarizer-AWS-Deployment",
+    "host": "PAVEETHRAN-OMEN",
+    "username": "Paveethran S",
+    "executable": "c:\\users\\papu_\\appdata\\local\\programs\\python\\python37\\python.exe"
+}

@@ -1,0 +1,14 @@
+# Need a path to save model artifacts.
+artifacts_path: artifacts
+
+# Need data ingestion path values. If we need to add more path, we just have to add the values here, and no need to manually create 
+# constants in every py file
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_dir: https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
+  local_data_file: artifacts/data_ingestion/summarizer-data.zip
+  unzip_dir: artifacts/data_ingestion
+
+
+
+

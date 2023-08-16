@@ -1,4 +1,10 @@
 transformers
+transformers[sentencepiece]
+sentencepiece
+protobuf
+wandb
+accelerate
+evaluate
 sacrebleu
 datasets
 rouge_score
@@ -10,7 +16,6 @@ tqdm
 PyYAML
 matplotlib
 torch
-pytorch-gpu
 notebook
 boto3
 mypy-boto3-s3

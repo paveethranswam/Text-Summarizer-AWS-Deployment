@@ -1,0 +1,100 @@
+[2023-08-16 14:37:28,232] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:42:31,565] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:42:31,571] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:44:21,657] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:44:21,665] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:44:21,667] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:46:47,435] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:46:47,443] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:46:47,445] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:47:38,988] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:47:38,989] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:47:38,991] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:48:00,423] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:48:00,424] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:48:00,426] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:48:00,994] @ [INFO] : <ipython-input-15-7ae6a3db0226> : Data file C:\Users\papu_\AppData\Local\Temp\tmpjtbn8z73 downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 30B2:682A:ADC746:C8656D:64DD27A4
+Accept-Ranges: bytes
+Date: Wed, 16 Aug 2023 19:48:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100078-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1692215283.923448,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ba2e97df1b2c9fdfd6ddba57469e98c6765a85fb
+Expires: Wed, 16 Aug 2023 19:53:02 GMT
+Source-Age: 73
+
+
+[2023-08-16 15:52:50,135] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:52:50,137] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:52:50,138] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:52:50,140] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:52:51,187] @ [INFO] : <ipython-input-24-375debb9ccd0> : Data file artifacts/data_ingestion/summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 30B2:682A:ADC746:C8656D:64DD27A4
+Accept-Ranges: bytes
+Date: Wed, 16 Aug 2023 19:52:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100139-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1692215573.818725,VS0,VE279
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1f4aeffa52f8eef2e6138c218ccdffe5cbbf7c61
+Expires: Wed, 16 Aug 2023 19:57:53 GMT
+Source-Age: 0
+
+
+[2023-08-16 15:54:32,644] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:54:32,646] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:54:32,647] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:54:32,649] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:54:43,968] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:54:43,971] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:54:43,973] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:54:43,974] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:54:43,975] @ [INFO] : <ipython-input-28-1f4a7add2a6e> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with
+[2023-08-16 15:55:11,216] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:55:11,222] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:55:11,223] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:55:11,225] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:55:11,227] @ [INFO] : <ipython-input-8-1f4a7add2a6e> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with
+[2023-08-16 15:55:40,095] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:55:40,095] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:55:40,095] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:55:40,095] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:55:40,095] @ [INFO] : <ipython-input-10-06c074710743> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with
+[2023-08-16 15:56:00,145] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:56:00,147] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:56:00,148] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:56:00,149] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:56:00,150] @ [INFO] : <ipython-input-12-32c2e50dc738> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with
+[2023-08-16 15:56:08,359] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:56:08,364] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:56:08,366] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:56:08,367] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:56:08,369] @ [INFO] : <ipython-input-14-d5732b6e0b96> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with

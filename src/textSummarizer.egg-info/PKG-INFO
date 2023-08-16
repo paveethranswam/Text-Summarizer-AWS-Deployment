@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: textSummarizer
+Version: 0.1.0
+Summary: # Text Summarization with deployement in AWS EC2 Machine and CI/CD with github actions
+Home-page: https://github.com/paveethranswam/Text-Summarizer-AWS-Deployment
+Author: paveethranswam
+Author-email: paswam@iu.edu
+License: UNKNOWN
+Project-URL: Bug_tracker, https://github.com/paveethranswam/Text-Summarizer-AWS-Deployment/issues
+Description: UNKNOWN
+Platform: UNKNOWN

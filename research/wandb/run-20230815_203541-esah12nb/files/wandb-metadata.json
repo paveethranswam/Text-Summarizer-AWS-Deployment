@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2023-08-16T00:35:43.313593",
+    "startedAt": "2023-08-16T00:35:41.524746",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/paveethranswam/Text-Summarizer-AWS-Deployment.git",
+        "commit": "fb3012fa061dc04f4c693d5b871d7300d918a8e5"
+    },
+    "email": "paswam@iu.edu",
+    "root": "C:/Users/papu_/OneDrive/Desktop/University Courses/3rd Semester/AWS ML Speciality/Text-Summarizer-AWS-Deployment",
+    "host": "PAVEETHRAN-OMEN",
+    "username": "Paveethran S",
+    "executable": "c:\\users\\papu_\\onedrive\\desktop\\university courses\\3rd semester\\aws ml speciality\\text-summarizer-aws-deployment\\textsum\\scripts\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3000.0,
+        "min": 0.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3000.0,
+            "min": 0.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 476.16405868530273,
+        "used": 473.2633361816406
+    },
+    "gpu": "NVIDIA GeForce GTX 1650 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650 Ti",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.364307403564453
+    }
+}

@@ -1,0 +1,740 @@
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-afc151a8457f69ec.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-bf4a9e8eb60f8b9a.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-a3516447f4bce5de.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-afc151a8457f69ec.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-bf4a9e8eb60f8b9a.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-a3516447f4bce5de.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-afc151a8457f69ec.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-bf4a9e8eb60f8b9a.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-a3516447f4bce5de.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-afc151a8457f69ec.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-bf4a9e8eb60f8b9a.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-a3516447f4bce5de.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-58847b9d31cce2bd.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-69029e2d77fcb1a3.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-1151166cfd3d1ecd.arrow
+<class 'datasets.dataset_dict.DatasetDict'> DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading file https://huggingface.co/google/mt5-small/resolve/main/spiece.model from cache at C:\Users\papu_/.cache\huggingface\transformers\37d0f67f084f8c5fc5589e0bba5ff3c6307af833bb0b7f4eb33fbfd8d4038a9d.84ea7af2df68dc8db434d3160aab65cce8ac63ce5b6f7743f8c9a4a14b4f77e2
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/special_tokens_map.json from cache at C:\Users\papu_/.cache\huggingface\transformers\685ac0ca8568ec593a48b61b0a3c272beee9bc194a3c7241d15dcadb5f875e53.f76030f3ec1b96a8199b2593390c610e76ca8028ef3d24680000619ffb646276
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer_config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\6a9e52d6dd21568e37b65fc180ada927968e8f7124f0acd6efcaf90cd2e0f4bb.4b81e5d952ad810ca1de2b3e362b9a26a5cc77b4b75daf20caf69fb838751c32
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading file https://huggingface.co/google/mt5-small/resolve/main/spiece.model from cache at C:\Users\papu_/.cache\huggingface\transformers\37d0f67f084f8c5fc5589e0bba5ff3c6307af833bb0b7f4eb33fbfd8d4038a9d.84ea7af2df68dc8db434d3160aab65cce8ac63ce5b6f7743f8c9a4a14b4f77e2
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/special_tokens_map.json from cache at C:\Users\papu_/.cache\huggingface\transformers\685ac0ca8568ec593a48b61b0a3c272beee9bc194a3c7241d15dcadb5f875e53.f76030f3ec1b96a8199b2593390c610e76ca8028ef3d24680000619ffb646276
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer_config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\6a9e52d6dd21568e37b65fc180ada927968e8f7124f0acd6efcaf90cd2e0f4bb.4b81e5d952ad810ca1de2b3e362b9a26a5cc77b4b75daf20caf69fb838751c32
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading weights file https://huggingface.co/google/mt5-small/resolve/main/pytorch_model.bin from cache at C:\Users\papu_/.cache\huggingface\transformers\8e7b2a80ddcb5611b27d8c89e1e8e33a947e105415051402a22b9c8d7d1caeb0.e22331f3a065b885b30ae3dd1ff11ccaf7fbc444485f6eb07ef5e0138bca8b70
+All model checkpoint weights were used when initializing MT5ForConditionalGeneration.
+All the weights of MT5ForConditionalGeneration were initialized from the model checkpoint at google/mt5-small.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use MT5ForConditionalGeneration for predictions without further training.
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading file https://huggingface.co/google/mt5-small/resolve/main/spiece.model from cache at C:\Users\papu_/.cache\huggingface\transformers\37d0f67f084f8c5fc5589e0bba5ff3c6307af833bb0b7f4eb33fbfd8d4038a9d.84ea7af2df68dc8db434d3160aab65cce8ac63ce5b6f7743f8c9a4a14b4f77e2
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/special_tokens_map.json from cache at C:\Users\papu_/.cache\huggingface\transformers\685ac0ca8568ec593a48b61b0a3c272beee9bc194a3c7241d15dcadb5f875e53.f76030f3ec1b96a8199b2593390c610e76ca8028ef3d24680000619ffb646276
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer_config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\6a9e52d6dd21568e37b65fc180ada927968e8f7124f0acd6efcaf90cd2e0f4bb.4b81e5d952ad810ca1de2b3e362b9a26a5cc77b4b75daf20caf69fb838751c32
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading weights file https://huggingface.co/google/mt5-small/resolve/main/pytorch_model.bin from cache at C:\Users\papu_/.cache\huggingface\transformers\8e7b2a80ddcb5611b27d8c89e1e8e33a947e105415051402a22b9c8d7d1caeb0.e22331f3a065b885b30ae3dd1ff11ccaf7fbc444485f6eb07ef5e0138bca8b70
+All model checkpoint weights were used when initializing MT5ForConditionalGeneration.
+All the weights of MT5ForConditionalGeneration were initialized from the model checkpoint at google/mt5-small.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use MT5ForConditionalGeneration for predictions without further training.
+Found cached dataset samsum (C:/Users/papu_/.cache/huggingface/datasets/samsum/samsum/0.0.0/f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e)
+Features in dataset: ['id', 'dialogue', 'summary']
+Dialogue: Lucas: Hey! How was your day?
+Demi: Hey there!
+Demi: It was pretty fine, actually, thank you!
+Demi: I just got promoted! :D
+Lucas: Whoa! Great news!
+Lucas: Congratulations!
+Lucas: Such a success has to be celebrated.
+Demi: I agree! :D
+Demi: Tonight at Death & Co.?
+Lucas: Sure!
+Lucas: See you there at 10pm?
+Demi: Yeah! See you there! :D
+Summary: Demi got promoted. She will celebrate that with Lucas at Death & Co at 10 pm.
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-69029e2d77fcb1a3.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-1151166cfd3d1ecd.arrow
+<class 'datasets.dataset_dict.DatasetDict'> DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+<class 'datasets.dataset_dict.DatasetDict'> DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-afc151a8457f69ec.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-bf4a9e8eb60f8b9a.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-a3516447f4bce5de.arrow
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading file https://huggingface.co/google/mt5-small/resolve/main/spiece.model from cache at C:\Users\papu_/.cache\huggingface\transformers\37d0f67f084f8c5fc5589e0bba5ff3c6307af833bb0b7f4eb33fbfd8d4038a9d.84ea7af2df68dc8db434d3160aab65cce8ac63ce5b6f7743f8c9a4a14b4f77e2
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/special_tokens_map.json from cache at C:\Users\papu_/.cache\huggingface\transformers\685ac0ca8568ec593a48b61b0a3c272beee9bc194a3c7241d15dcadb5f875e53.f76030f3ec1b96a8199b2593390c610e76ca8028ef3d24680000619ffb646276
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer_config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\6a9e52d6dd21568e37b65fc180ada927968e8f7124f0acd6efcaf90cd2e0f4bb.4b81e5d952ad810ca1de2b3e362b9a26a5cc77b4b75daf20caf69fb838751c32
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading weights file https://huggingface.co/google/mt5-small/resolve/main/pytorch_model.bin from cache at C:\Users\papu_/.cache\huggingface\transformers\8e7b2a80ddcb5611b27d8c89e1e8e33a947e105415051402a22b9c8d7d1caeb0.e22331f3a065b885b30ae3dd1ff11ccaf7fbc444485f6eb07ef5e0138bca8b70
+All model checkpoint weights were used when initializing MT5ForConditionalGeneration.
+All the weights of MT5ForConditionalGeneration were initialized from the model checkpoint at google/mt5-small.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use MT5ForConditionalGeneration for predictions without further training.
+Features in dataset: ['id', 'dialogue', 'summary']
+Dialogue: Lucas: Hey! How was your day?
+Demi: Hey there!
+Demi: It was pretty fine, actually, thank you!
+Demi: I just got promoted! :D
+Lucas: Whoa! Great news!
+Lucas: Congratulations!
+Lucas: Such a success has to be celebrated.
+Demi: I agree! :D
+Demi: Tonight at Death & Co.?
+Lucas: Sure!
+Lucas: See you there at 10pm?
+Demi: Yeah! See you there! :D
+Summary: Demi got promoted. She will celebrate that with Lucas at Death & Co at 10 pm.
+Found cached dataset samsum (C:/Users/papu_/.cache/huggingface/datasets/samsum/samsum/0.0.0/f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e)
+<class 'datasets.dataset_dict.DatasetDict'> DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-bf4a9e8eb60f8b9a.arrow
+Loading cached processed dataset at C:\Users\papu_\.cache\huggingface\datasets\samsum\samsum\0.0.0\f1d7c6b7353e6de335d444e424dc002ef70d1277109031327bc9cc6af5d3d46e\cache-a3516447f4bce5de.arrow
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+The following columns in the training set  don't have a corresponding argument in `MT5ForConditionalGeneration.forward` and have been ignored: id, summary, dialogue.
+***** Running training *****
+  Num examples = 14732
+  Num Epochs = 10
+  Instantaneous batch size per device = 500
+  Total train batch size (w. parallel, distributed & accumulation) = 500
+  Gradient Accumulation steps = 1
+  Total optimization steps = 300
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading file https://huggingface.co/google/mt5-small/resolve/main/spiece.model from cache at C:\Users\papu_/.cache\huggingface\transformers\37d0f67f084f8c5fc5589e0bba5ff3c6307af833bb0b7f4eb33fbfd8d4038a9d.84ea7af2df68dc8db434d3160aab65cce8ac63ce5b6f7743f8c9a4a14b4f77e2
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/added_tokens.json from cache at None
+loading file https://huggingface.co/google/mt5-small/resolve/main/special_tokens_map.json from cache at C:\Users\papu_/.cache\huggingface\transformers\685ac0ca8568ec593a48b61b0a3c272beee9bc194a3c7241d15dcadb5f875e53.f76030f3ec1b96a8199b2593390c610e76ca8028ef3d24680000619ffb646276
+loading file https://huggingface.co/google/mt5-small/resolve/main/tokenizer_config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\6a9e52d6dd21568e37b65fc180ada927968e8f7124f0acd6efcaf90cd2e0f4bb.4b81e5d952ad810ca1de2b3e362b9a26a5cc77b4b75daf20caf69fb838751c32
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading configuration file https://huggingface.co/google/mt5-small/resolve/main/config.json from cache at C:\Users\papu_/.cache\huggingface\transformers\97693496c1a0cae463bd18428187f9e9924d2dfbadaa46e4d468634a0fc95a41.dadce13f8f85f4825168354a04675d4b177749f8f11b167e87676777695d4fe4
+Model config MT5Config {
+  "architectures": [
+    "MT5ForConditionalGeneration"
+  ],
+  "d_ff": 1024,
+  "d_kv": 64,
+  "d_model": 512,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "gated-gelu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "mt5",
+  "num_decoder_layers": 8,
+  "num_heads": 6,
+  "num_layers": 8,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "tie_word_embeddings": false,
+  "tokenizer_class": "T5Tokenizer",
+  "transformers_version": "4.12.5",
+  "use_cache": true,
+  "vocab_size": 250112
+}
+loading weights file https://huggingface.co/google/mt5-small/resolve/main/pytorch_model.bin from cache at C:\Users\papu_/.cache\huggingface\transformers\8e7b2a80ddcb5611b27d8c89e1e8e33a947e105415051402a22b9c8d7d1caeb0.e22331f3a065b885b30ae3dd1ff11ccaf7fbc444485f6eb07ef5e0138bca8b70

@@ -1,0 +1,96 @@
+[2023-08-15 01:20:38,632] @ [INFO] : <stdin> : ewrewtwead
+[2023-08-15 01:20:39,589] @ [INFO] : <stdin> : ewrewtwead
+[2023-08-15 01:20:40,057] @ [INFO] : <stdin> : ewrewtwead
+[2023-08-15 01:20:40,519] @ [INFO] : <stdin> : ewrewtwead
+[2023-08-16 14:32:00,537] @ [INFO] : common : Path to YAML config/config.yaml loaded correctly
+[2023-08-16 14:39:26,385] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 14:39:41,968] @ [INFO] : common : Directory s created correctly
+[2023-08-16 14:39:57,933] @ [INFO] : common : Directory s created correctly
+[2023-08-16 15:40:18,135] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:40:41,840] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:40:41,843] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:34:07,730] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:34:07,740] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:34:07,748] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:34:07,749] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:34:07,751] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:34:07,752] @ [ERROR] : main : module 'urllib' has no attribute 'request'
+[2023-08-16 19:35:47,356] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:35:47,358] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:35:47,359] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:35:47,360] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:35:47,361] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:35:47,362] @ [ERROR] : main : module 'urllib' has no attribute 'urlretrieve'
+[2023-08-16 19:36:16,084] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:36:16,086] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:36:16,087] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:36:16,088] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:36:16,089] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:36:16,089] @ [ERROR] : main : module 'urllib' has no attribute 'urlretrieve'
+[2023-08-16 19:38:47,821] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:38:47,823] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:38:47,826] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:38:47,827] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:38:47,828] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:38:47,828] @ [ERROR] : main : module 'urllib' has no attribute 'request'
+[2023-08-16 19:47:41,233] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:47:41,234] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:47:41,235] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:47:41,235] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:47:41,236] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:47:42,511] @ [INFO] : dataIngestion : Data file artifacts/data_ingestion/summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EF58:147B:18E363:1CC423:64DD601F
+Accept-Ranges: bytes
+Date: Wed, 16 Aug 2023 23:47:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100174-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692229664.312865,VS0,VE394
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ae9f56fd4af145f31444a75bae54b9b2a306e9a3
+Expires: Wed, 16 Aug 2023 23:52:44 GMT
+Source-Age: 0
+
+
+[2023-08-16 19:47:42,693] @ [INFO] : dataIngestion : Zip file extracted at artifacts/data_ingestion
+[2023-08-16 19:47:42,694] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+
+
+[2023-08-16 19:47:51,229] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:47:51,232] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:47:51,233] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:47:51,234] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:47:51,235] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:47:51,236] @ [INFO] : dataIngestion : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-16 19:47:51,414] @ [INFO] : dataIngestion : Zip file extracted at artifacts/data_ingestion
+[2023-08-16 19:47:51,415] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+
+
+[2023-08-16 19:48:22,283] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 19:48:22,286] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 19:48:22,287] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 19:48:22,288] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 19:48:22,289] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 19:48:22,290] @ [INFO] : dataIngestion : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-16 19:48:22,443] @ [INFO] : dataIngestion : Zip file extracted at artifacts/data_ingestion
+[2023-08-16 19:48:22,444] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
