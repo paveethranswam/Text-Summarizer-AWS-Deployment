@@ -98,3 +98,19 @@ Source-Age: 0
 [2023-08-16 15:56:08,366] @ [INFO] : common : Directory artifacts created correctly
 [2023-08-16 15:56:08,367] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
 [2023-08-16 15:56:08,369] @ [INFO] : <ipython-input-14-d5732b6e0b96> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with
+[2023-08-16 15:56:29,488] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:56:29,495] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:56:29,496] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:56:29,498] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:56:29,499] @ [INFO] : <ipython-input-8-06c074710743> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with
+[2023-08-16 15:57:02,562] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:57:02,564] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:57:02,566] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:57:02,567] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:57:02,569] @ [INFO] : <ipython-input-10-6a021f34cfa8> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-16 15:57:33,438] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 15:57:33,440] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 15:57:33,441] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 15:57:33,443] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 15:57:33,444] @ [INFO] : <ipython-input-12-532bbc926797> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-16 15:57:33,604] @ [INFO] : <ipython-input-12-532bbc926797> : Zip file extracted at artifacts/data_ingestion
