@@ -4,20 +4,15 @@ from pathlib import Path
 from textSummarizer.logging import logger
 from dataclasses import dataclass
 from textSummarizer.config.configuration import ConfigurationManager
-from textSummarizer.components.dataIngestion import DataIngestion
+from textSummarizer.components.dataValidation import DataValidation
 
-
-
-class DataIngestionPipeline:
+class DataValidationPipeline:
     def main():
         try:
             config = ConfigurationManager()
-            dic = config.getDataIngestionConfig()
-            di = DataIngestion(dic)
-            di.download_data()
-            di.extract_zip()
-            
+            dic = config.getDataValidationConfig()
+            di = DataValidation(dic)
+            di.validate_data()
+        
         except Exception as e:
             raise e
-        
-

@@ -6,6 +6,15 @@
 
 #### Read about Data Classes, how they are different from normal classes and named tuple. And we can mention in we need to freeze the values of the class from changing or allow them to change dynamically. https://realpython.com/python-data-classes/
 
+#### Unsolved mysteries: import urllib and import urllib.request both are needed. Don't know why this has to be done but without importing this, the code does not work.
+
+
+### Improvements to do:
+#### 1. In data validation stage, Validate files in folder, status is set to true only when all the required files are found. Further validation should include column level, data type checking - extract scheme information using glue crawler and store the metadata in the AWS Glue Data Catalog, handling missing values, row level error fixing.
+
+#### 2. In model training stage, use Huggingface with sagemaker estimator and deploy endpoint to run on sagemaker instance. https://huggingface.co/docs/sagemaker/train
+
+
 1. Update config.yaml
 2. Update params.yaml and update constants
 3. Update entity.yaml - Entity is the return type of a function

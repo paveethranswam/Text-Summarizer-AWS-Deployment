@@ -94,3 +94,104 @@ Source-Age: 0
 [2023-08-16 19:48:22,444] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
 
 
+[2023-08-16 21:04:06,284] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-16 21:04:06,288] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:04:06,292] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:04:06,296] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:04:06,296] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:04:06,296] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-16 21:04:06,598] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-16 21:04:06,598] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 01:42:07,117] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 01:42:07,131] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 01:42:07,141] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 01:42:07,143] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 01:42:07,145] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 01:42:07,147] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 01:42:07,357] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 01:42:07,357] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 01:42:07,358] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 01:42:07,361] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 01:42:07,363] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 01:42:07,364] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 01:42:07,365] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 01:42:07,366] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 01:42:07,368] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 01:42:07,368] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 01:43:23,249] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 01:43:23,252] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 01:43:23,254] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 01:43:23,255] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 01:43:23,256] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 01:43:23,256] @ [ERROR] : main : module 'urllib' has no attribute 'request'
+[2023-08-17 01:44:04,845] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 01:44:04,849] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 01:44:04,851] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 01:44:04,853] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 01:44:04,854] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 01:44:04,855] @ [ERROR] : main : module 'urllib' has no attribute 'request'
+[2023-08-17 01:44:14,256] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 01:44:14,259] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 01:44:14,261] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 01:44:14,262] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 01:44:14,263] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 01:44:15,514] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E0DA:68D6:5E760:7878C:64DDB3AB
+Accept-Ranges: bytes
+Date: Thu, 17 Aug 2023 05:44:15 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-kigq8000106-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692251055.900267,VS0,VE270
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4642cbbf408690d3f17c326149d3abd8a79fc4f9
+Expires: Thu, 17 Aug 2023 05:49:15 GMT
+Source-Age: 0
+
+
+[2023-08-17 01:44:15,688] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 01:44:15,688] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 01:44:15,689] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 01:44:15,691] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 01:44:15,692] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 01:44:15,693] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 01:44:15,694] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 01:44:15,695] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 01:44:15,697] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 01:44:15,697] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+

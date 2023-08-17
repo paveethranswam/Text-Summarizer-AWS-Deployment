@@ -114,3 +114,36 @@ Source-Age: 0
 [2023-08-16 15:57:33,443] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
 [2023-08-16 15:57:33,444] @ [INFO] : <ipython-input-12-532bbc926797> : Data file artifacts/data_ingestion/summarizer-data.zip already exists, with File size: 7718.353515625 kB
 [2023-08-16 15:57:33,604] @ [INFO] : <ipython-input-12-532bbc926797> : Zip file extracted at artifacts/data_ingestion
+[2023-08-16 21:00:30,713] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:00:30,756] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:00:30,764] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:00:30,768] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:05:19,821] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:05:19,823] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:05:19,823] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:05:19,827] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:06:19,905] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:06:19,914] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:06:19,918] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:06:19,918] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:06:19,922] @ [ERROR] : <ipython-input-24-1927dfee2ce5> : [WinError 3] The system cannot find the path specified: 'artifacts\\data_validation'
+[2023-08-16 21:06:53,625] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:06:53,629] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:06:53,632] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:06:53,635] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:06:53,635] @ [ERROR] : <ipython-input-28-1927dfee2ce5> : [WinError 3] The system cannot find the path specified: 'artifacts\\data_validation'
+[2023-08-16 21:07:43,842] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:07:43,842] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:07:43,846] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:07:43,850] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:07:43,853] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:08:02,246] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:08:02,246] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:08:02,250] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:08:02,254] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:08:02,254] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:08:37,435] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:08:37,439] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:08:37,439] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:08:37,443] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:08:37,443] @ [INFO] : common : Directory artifacts/data_validation created correctly

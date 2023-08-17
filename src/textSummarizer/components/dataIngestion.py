@@ -4,10 +4,11 @@ from textSummarizer.utils.common import read_yaml, create_directories, get_size
 import os, sys
 from pathlib import Path
 import urllib
+import urllib.request # Don't know why this is needed, but without importing this, the code does not work
 from textSummarizer.logging import logger
 from zipfile import ZipFile
 from dataclasses import dataclass
-from textSummarizer.entity import DataIngestionConfig
+from textSummarizer.entity import DataIngestionConfig, DataValidationConfig
 
 
 
@@ -29,6 +30,5 @@ class DataIngestion:
         with ZipFile(self.dic.local_data_file, 'r') as zObject:
             zObject.extractall(path=self.dic.unzip_dir)
         logger.info('Zip file extracted at {}'.format(self.dic.unzip_dir))
-
 
 
