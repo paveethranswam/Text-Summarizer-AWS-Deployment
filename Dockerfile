@@ -1,4 +1,4 @@
-FROM python3.8-slim-buster
+FROM python:3.8-slim-buster
 RUN apt update -y && apt install awscli -y
 # Create app folder and copy all files and source codes into app folder
 WORKDIR /app
