@@ -1,1 +1,11 @@
-keys_dm: value_dm
+TrainingArguments:
+  output_dir: "artifacts/t5_model_files"
+  num_train_epochs: 1
+  warmup_steps: 100
+  per_device_train_batch_size: 10
+  per_device_eval_batch_size: 10
+  weight_decay: 0.02
+  logging_steps: 10
+  gradient_accumulation_steps: 20
+  evaluation_strategy: 'epoch'
+  predict_with_generate: True

@@ -25,3 +25,18 @@
 8. Update app.py
 
 
+
+Steps to do deployment:
+1. Connect to EC2 machine: A virtual machine to run docker containers
+2. Connect ECR: Elastic Container Registry to save docker image in aws
+
+3. Build docker image of source code
+4. Push docker image to ECR
+5. Launch EC2 machine
+6. Pull image from ECR to EC2 machine
+7. Launch docker image in EC2
+
+# Policy:
+- Amazon EC2 full access
+- Amazon EC2 Container Registry (ECR) full access
+

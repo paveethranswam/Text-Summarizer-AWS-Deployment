@@ -4,7 +4,7 @@ from textSummarizer.utils.common import read_yaml, create_directories, get_size
 from pathlib import Path
 from textSummarizer.logging import logger
 from dataclasses import dataclass
-from textSummarizer.entity import DataIngestionConfig, DataValidationConfig
+from textSummarizer.entity import DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig
 
 
 
@@ -47,5 +47,59 @@ class ConfigurationManager:
 
 
 
+    def getDataTransformationConfig(self) -> DataTransformationConfig:
+
+        data_transformation_config = self.config.data_transformation
+
+        create_directories([data_transformation_config.root_dir])
+
+        dc = DataTransformationConfig(root_dir = Path(data_transformation_config.root_dir), 
+                                   data_dir = Path(data_transformation_config.data_dir),
+                                 model_name = str(data_transformation_config.model_name))
+
+        return dc
 
 
+
+
+    def getModelTrainerConfig(self) -> ModelTrainerConfig:
+        
+        # Take model name from config file
+        # Take other training arguments from params file
+        
+        model_trainer_params = self.params.TrainingArguments  
+        create_directories([Path(model_trainer_params.output_dir)])
+        
+        mtc = ModelTrainerConfig(model_name = self.config.model_trainer.model_name,
+                                  output_dir= Path(model_trainer_params.output_dir),
+                                  num_train_epochs= int(model_trainer_params.num_train_epochs),
+                                  warmup_steps = model_trainer_params.warmup_steps,
+                                  per_device_train_batch_size= model_trainer_params.per_device_train_batch_size,
+                                  per_device_eval_batch_size= model_trainer_params.per_device_eval_batch_size,
+                                  weight_decay= model_trainer_params.weight_decay,
+                                  logging_steps= model_trainer_params.logging_steps,
+                                  gradient_accumulation_steps= model_trainer_params.gradient_accumulation_steps,
+                                  evaluation_strategy = model_trainer_params.evaluation_strategy,
+                                  predict_with_generate= model_trainer_params.predict_with_generate)
+        
+        return mtc
+    
+
+
+    def getModelEvaluationConfig(self) -> ModelEvaluationConfig:
+        
+        # Take model name from config file
+        # Take other training arguments from params file
+        
+        model_eval_config = self.config.model_evaluation  
+        
+        mec = ModelEvaluationConfig(
+                                model_name = model_eval_config.model_name,
+                                data_dir = Path(model_eval_config.data_dir),
+                                model_dir = model_eval_config.model_dir,
+                                tokenizer_dir = model_eval_config.tokenizer_dir,
+                                length_penalty = model_eval_config.length_penalty,
+                                max_length = model_eval_config.max_length,
+                                batch_size = model_eval_config.batch_size)
+        
+        return mec

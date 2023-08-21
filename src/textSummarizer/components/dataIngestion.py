@@ -27,8 +27,9 @@ class DataIngestion:
             logger.info('Data file {} already exists, with {}'.format(self.dic.local_data_file, size))
     # Extract
     def extract_zip(self):
-        with ZipFile(self.dic.local_data_file, 'r') as zObject:
-            zObject.extractall(path=self.dic.unzip_dir)
-        logger.info('Zip file extracted at {}'.format(self.dic.unzip_dir))
+        if(not os.path.exists(os.path.join(self.dic.unzip_dir, 'samsum_dataset'))):
+            with ZipFile(self.dic.local_data_file, 'r') as zObject:
+                zObject.extractall(path=self.dic.unzip_dir)
+            logger.info('Zip file extracted at {}'.format(self.dic.unzip_dir))
 
 

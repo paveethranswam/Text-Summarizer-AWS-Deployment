@@ -7,12 +7,34 @@ data_ingestion:
   root_dir: artifacts/data_ingestion
   source_dir: https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
   local_data_file: artifacts/data_ingestion/summarizer-data.zip
-  unzip_dir: artifacts/data_ingestion
+  unzip_dir: "artifacts/data_ingestion"
 
 
 data_validation:
   root_dir: artifacts/data_validation
-  data_dir: artifacts/data_ingestion
+  data_dir: "artifacts/data_ingestion/samsum_dataset"
   status_dir: artifacts/data_validation/status.txt
   required_files: ["train", "validation", "test"]
+
+
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_dir: artifacts/data_ingestion/samsum_dataset
+  model_name: t5-small
+
+
+model_trainer:
+  model_name: t5-small
+
+
+model_evaluation:
+  model_name: t5-small
+  data_dir: artifacts/data_ingestion/samsum_dataset
+  model_dir: artifacts/t5_model_files
+  tokenizer_dir: artifacts/t5_model_files/tokenizer
+  length_penalty: 0.6
+  max_length: 200
+  batch_size: 10
+
+
 

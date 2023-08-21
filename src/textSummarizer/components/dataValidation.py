@@ -20,7 +20,7 @@ class DataValidation:
         try:
             # Validate files in folder, status is set to true only when all the required files are found
             # Further validation should include column level, handling missing values, row level error fixing
-            list_of_files = os.listdir(os.path.join(self.dic.data_dir, 'samsum_dataset'))
+            list_of_files = os.listdir(Path(self.dic.data_dir))
             data_validation_status = True
 
             with open(self.dic.status_dir, 'w') as f:

@@ -26,5 +26,38 @@ class DataValidationConfig:
 
 
 
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_dir: Path
+    model_name: str
+
+
+
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+    model_name: str
+    output_dir: str
+    num_train_epochs: int
+    warmup_steps: int
+    per_device_train_batch_size: int
+    per_device_eval_batch_size: int
+    weight_decay: float
+    logging_steps: int
+    gradient_accumulation_steps: int
+    evaluation_strategy: str
+    predict_with_generate: bool
+
+
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    model_name: str
+    data_dir: Path
+    model_dir: Path
+    tokenizer_dir: Path
+    length_penalty: float
+    max_length: int
+    batch_size: int
 
     

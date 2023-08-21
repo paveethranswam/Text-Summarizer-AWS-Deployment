@@ -195,3 +195,1571 @@ Source-Age: 0
 [2023-08-17 01:44:15,697] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
 
 
+[2023-08-17 02:01:58,359] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 02:01:58,370] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:01:58,373] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:01:58,374] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:01:58,375] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:01:58,376] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 02:01:58,528] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 02:01:58,529] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:01:58,529] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 02:01:58,532] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:01:58,533] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:01:58,534] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:01:58,535] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:01:58,536] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 02:01:58,536] @ [ERROR] : dataValidation : [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\samsum_data'
+[2023-08-17 02:01:58,537] @ [ERROR] : main : [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\samsum_data'
+[2023-08-17 02:02:20,443] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 02:02:20,454] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:02:20,456] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:02:20,457] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:02:20,457] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:02:20,458] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 02:02:20,609] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 02:02:20,609] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:02:20,610] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 02:02:20,613] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:02:20,617] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:02:20,619] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:02:20,620] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:02:20,621] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 02:02:20,623] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 02:02:20,623] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:02:44,636] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 02:02:44,646] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:02:44,648] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:02:44,649] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:02:44,650] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:02:44,650] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 02:02:44,814] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 02:02:44,815] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:02:44,816] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 02:02:44,819] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:02:44,820] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:02:44,821] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:02:44,822] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:02:44,823] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 02:02:44,824] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 02:02:44,824] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:03:01,287] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 02:03:01,298] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:03:01,300] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:03:01,301] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:03:01,301] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:03:01,302] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 02:03:01,454] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 02:03:01,455] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:03:01,456] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 02:03:01,459] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:03:01,461] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:03:01,463] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:03:01,464] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:03:01,465] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 02:03:01,467] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 02:03:01,467] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:03:10,565] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 02:03:10,569] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:03:10,570] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:03:10,572] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:03:10,573] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:03:11,498] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E0DA:68D6:5E760:7878C:64DDB3AB
+Accept-Ranges: bytes
+Date: Thu, 17 Aug 2023 06:03:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100100-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1692252191.178962,VS0,VE64
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 87c902630557ca4e2d9f0ec5e1c836a41fd71e0d
+Expires: Thu, 17 Aug 2023 06:08:11 GMT
+Source-Age: 0
+
+
+[2023-08-17 02:03:11,666] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 02:03:11,667] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 02:03:11,668] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 02:03:11,671] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:03:11,673] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:03:11,674] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:03:11,675] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:03:11,676] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 02:03:11,677] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 02:03:11,678] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:05:27,071] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 03:05:27,082] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:05:27,085] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:05:27,087] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:05:27,088] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:05:27,090] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 03:05:27,178] @ [ERROR] : main : [Errno 22] Invalid argument: 'artifacts\\data_ingestion\\samsum_dataset\\test\\data-00000-of-00001.arrow'
+[2023-08-17 03:07:17,239] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 03:07:17,242] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:07:17,244] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:07:17,244] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:07:17,245] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:07:17,246] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 03:07:17,247] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:07:17,248] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 03:07:17,251] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:07:17,252] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:07:17,254] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:07:17,255] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:07:17,256] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 03:07:17,258] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 03:07:17,258] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:07:17,259] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 03:07:17,263] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:07:17,265] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:07:17,266] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:07:17,267] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:07:17,269] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 03:07:26,210] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 03:07:26,334] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:07:43,991] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 03:07:43,995] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:07:43,996] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:07:43,997] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:07:43,998] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:07:44,947] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E0DA:68D6:5E760:7878C:64DDB3AB
+Accept-Ranges: bytes
+Date: Thu, 17 Aug 2023 07:07:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-kigq8000054-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1692256065.681005,VS0,VE70
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0eec3cba4370860f120813d6d07d2555c0295ac1
+Expires: Thu, 17 Aug 2023 07:12:44 GMT
+Source-Age: 0
+
+
+[2023-08-17 03:07:44,952] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:07:44,952] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 03:07:44,956] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:07:44,957] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:07:44,958] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:07:44,960] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:07:44,961] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 03:07:44,961] @ [ERROR] : dataValidation : [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\samsum_dataset'
+[2023-08-17 03:07:44,962] @ [ERROR] : main : [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\samsum_dataset'
+[2023-08-17 03:11:09,569] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 03:11:09,573] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:11:09,574] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:11:09,575] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:11:09,576] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:11:09,577] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 03:11:09,747] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 03:11:09,748] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:11:09,748] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 03:11:09,752] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:11:09,754] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:11:09,755] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:11:09,756] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:11:09,758] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 03:11:09,760] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 03:11:09,761] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:11:09,761] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 03:11:09,765] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:11:09,766] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:11:09,767] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:11:09,769] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:11:09,770] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 03:11:18,818] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 03:11:18,958] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:11:43,427] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 03:11:43,431] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:11:43,433] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:11:43,434] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:11:43,435] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:11:44,233] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E0DA:68D6:5E760:7878C:64DDB3AB
+Accept-Ranges: bytes
+Date: Thu, 17 Aug 2023 07:11:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-kigq8000073-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1692256304.070951,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c26c46821dbe59705a98d5c0402c9f1b817b9588
+Expires: Thu, 17 Aug 2023 07:16:44 GMT
+Source-Age: 239
+
+
+[2023-08-17 03:11:44,403] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-17 03:11:44,403] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:11:44,404] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 03:11:44,407] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:11:44,408] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:11:44,409] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:11:44,410] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:11:44,411] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 03:11:44,412] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 03:11:44,413] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 03:11:44,413] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 03:11:44,416] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 03:11:44,418] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 03:11:44,419] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 03:11:44,419] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 03:11:44,420] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 03:11:52,492] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 03:11:52,614] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:50:43,659] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 18:50:43,672] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:50:43,681] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:50:43,683] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:50:43,684] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:50:43,686] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 18:50:43,687] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:50:43,688] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 18:50:43,691] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:50:43,692] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:50:43,693] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:50:43,694] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:50:43,694] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 18:50:43,696] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 18:50:43,697] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:50:43,697] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 18:50:43,701] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:50:43,702] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:50:43,703] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:50:43,704] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:50:43,705] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 18:50:45,726] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-096c31ca3c5b0fa6.arrow
+[2023-08-17 18:50:46,337] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-617f9ffbc32c465c.arrow
+[2023-08-17 18:50:46,338] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 18:50:46,470] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:53:21,846] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 18:53:21,850] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:53:21,852] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:53:21,853] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:53:21,854] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:53:21,854] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 18:53:21,855] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:53:21,856] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 18:53:21,859] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:53:21,860] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:53:21,861] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:53:21,862] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:53:21,863] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 18:53:21,865] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 18:53:21,865] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:53:21,866] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 18:53:21,869] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:53:21,870] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:53:21,871] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:53:21,872] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:53:21,872] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 18:53:23,742] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-096c31ca3c5b0fa6.arrow
+[2023-08-17 18:53:23,776] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-db1e1712798ae4f8.arrow
+[2023-08-17 18:53:24,176] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 18:53:24,288] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:54:15,213] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 18:54:15,216] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:54:15,218] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:54:15,218] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:54:15,219] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:54:15,220] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 18:54:15,220] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:54:15,221] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 18:54:15,224] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:54:15,225] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:54:15,226] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:54:15,226] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:54:15,227] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 18:54:15,229] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 18:54:15,229] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:54:15,230] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 18:54:15,233] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:54:15,235] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:54:15,235] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:54:15,236] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:54:15,237] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 18:54:16,812] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-096c31ca3c5b0fa6.arrow
+[2023-08-17 18:54:16,846] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-db1e1712798ae4f8.arrow
+[2023-08-17 18:54:16,881] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-9eba24148fda80fc.arrow
+[2023-08-17 18:54:16,883] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 18:54:16,990] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:54:29,891] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 18:54:29,895] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:54:29,896] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:54:29,898] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:54:29,899] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:54:29,899] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 18:54:29,900] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:54:29,901] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 18:54:29,905] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:54:29,906] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:54:29,907] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:54:29,908] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:54:29,908] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 18:54:29,910] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 18:54:29,910] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:54:29,910] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 18:54:29,913] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:54:29,914] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:54:29,915] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:54:29,916] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:54:29,917] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 18:54:31,540] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-096c31ca3c5b0fa6.arrow
+[2023-08-17 18:54:31,578] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-db1e1712798ae4f8.arrow
+[2023-08-17 18:54:31,613] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-9eba24148fda80fc.arrow
+[2023-08-17 18:54:31,614] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 18:54:31,728] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:56:16,026] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 18:56:16,029] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:56:16,030] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:56:16,031] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:56:16,032] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:56:16,033] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 18:56:16,033] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:56:16,034] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 18:56:16,037] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:56:16,038] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:56:16,039] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:56:16,040] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:56:16,041] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 18:56:16,043] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 18:56:16,043] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:56:16,044] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 18:56:16,047] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:56:16,049] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:56:16,049] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:56:16,050] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:56:16,051] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 18:56:17,472] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-096c31ca3c5b0fa6.arrow
+[2023-08-17 18:56:17,506] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-db1e1712798ae4f8.arrow
+[2023-08-17 18:56:17,542] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-9eba24148fda80fc.arrow
+[2023-08-17 18:56:17,543] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 18:56:17,651] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:56:34,058] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-17 18:56:34,062] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:56:34,063] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:56:34,064] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:56:34,065] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:56:34,066] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-17 18:56:34,067] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:56:34,068] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-17 18:56:34,071] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:56:34,072] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:56:34,073] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:56:34,074] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:56:34,075] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-17 18:56:34,076] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-17 18:56:34,076] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-17 18:56:34,077] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-17 18:56:34,080] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 18:56:34,081] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 18:56:34,082] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 18:56:34,083] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 18:56:34,084] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 18:56:35,431] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-096c31ca3c5b0fa6.arrow
+[2023-08-17 18:56:35,464] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-db1e1712798ae4f8.arrow
+[2023-08-17 18:56:35,498] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-9eba24148fda80fc.arrow
+[2023-08-17 18:56:35,500] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 18:56:35,609] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:03:11,685] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:03:11,695] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:03:11,705] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:03:11,707] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:03:11,708] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:03:11,710] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:03:11,711] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:03:11,712] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:03:11,716] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:03:11,719] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:03:11,720] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:03:11,721] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:03:11,722] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:03:11,724] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:03:11,724] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:03:11,725] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:03:11,728] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:03:11,731] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:03:11,732] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:03:11,733] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:03:11,734] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:03:18,086] @ [ERROR] : dataTransformation : [Errno 28] No space left on device
+[2023-08-18 21:03:18,086] @ [ERROR] : main : [Errno 28] No space left on device
+[2023-08-18 21:13:30,154] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:13:30,158] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:13:30,161] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:13:30,163] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:13:30,164] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:13:30,165] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:13:30,165] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:13:30,166] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:13:30,169] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:13:30,172] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:13:30,172] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:13:30,173] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:13:30,174] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:13:30,175] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:13:30,176] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:13:30,176] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:13:30,179] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:13:30,182] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:13:30,183] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:13:30,184] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:13:30,185] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:13:36,956] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:13:36,982] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:13:36,983] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:13:36,986] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:13:36,989] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:13:36,990] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:13:36,990] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:13:36,991] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-18 21:13:36,992] @ [ERROR] : main : "'ConfigBox' object has no attribute 'model_name'"
+[2023-08-18 21:24:01,842] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:24:01,846] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:24:01,849] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:24:01,850] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:24:01,851] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:24:01,852] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:24:01,854] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:24:01,855] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:24:01,858] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:24:01,860] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:24:01,861] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:24:01,862] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:24:01,863] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:24:01,865] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:24:01,865] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:24:01,866] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:24:01,869] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:24:01,872] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:24:01,873] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:24:01,874] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:24:01,875] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:24:02,135] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-18 21:24:02,534] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-73b96ef6fb95aa5e.arrow
+[2023-08-18 21:24:02,535] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:24:02,561] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:24:02,562] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:24:02,566] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:24:02,569] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:24:02,571] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:24:02,571] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:24:02,573] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-18 21:24:02,705] @ [ERROR] : main : AutoModelForSeq2SeqLM is designed to be instantiated using the `AutoModelForSeq2SeqLM.from_pretrained(pretrained_model_name_or_path)` or `AutoModelForSeq2SeqLM.from_config(config)` methods.
+[2023-08-18 21:30:52,082] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:30:52,086] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:30:52,091] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:30:52,093] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:30:52,094] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:30:52,095] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:30:52,096] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:30:52,097] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:30:52,101] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:30:52,103] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:30:52,105] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:30:52,106] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:30:52,107] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:30:52,109] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:30:52,110] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:30:52,110] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:30:52,113] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:30:52,117] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:30:52,118] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:30:52,119] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:30:52,120] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:30:52,483] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-18 21:30:52,495] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-18 21:30:52,890] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:30:52,912] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:30:52,914] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:30:52,917] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:30:52,920] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:30:52,921] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:30:52,922] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:30:52,923] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-18 21:31:00,122] @ [ERROR] : main : __init__() got an unexpected keyword argument 'predict_with_generate'
+[2023-08-18 21:52:29,568] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:52:29,573] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:29,579] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:29,581] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:29,582] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:29,584] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:52:29,585] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:52:29,586] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:52:29,590] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:29,594] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:29,596] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:29,598] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:29,599] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:52:29,603] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:52:29,604] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:52:29,605] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:52:29,611] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:29,614] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:29,616] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:29,618] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:29,620] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:52:29,996] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-18 21:52:30,010] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-18 21:52:30,024] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-18 21:52:30,024] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:52:30,046] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:52:30,047] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:52:30,049] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:30,052] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:30,053] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:30,063] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:30,064] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-18 21:52:32,824] @ [ERROR] : main : __init__() got an unexpected keyword argument 'predict_with_generate'
+[2023-08-18 21:52:58,080] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:52:58,085] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:58,089] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:58,090] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:58,091] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:58,092] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:52:58,093] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:52:58,094] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:52:58,099] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:58,102] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:58,103] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:58,104] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:58,106] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:52:58,108] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:52:58,109] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:52:58,110] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:52:58,114] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:58,117] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:58,118] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:58,120] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:58,121] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:52:58,433] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-18 21:52:58,447] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-18 21:52:58,460] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-18 21:52:58,462] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:52:58,484] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:52:58,485] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:52:58,488] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:52:58,490] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:52:58,491] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:52:58,492] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:52:58,493] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-18 21:54:51,849] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:54:51,854] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:54:51,858] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:54:51,859] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:54:51,861] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:54:51,861] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:54:51,862] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:54:51,863] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:54:51,867] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:54:51,869] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:54:51,869] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:54:51,870] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:54:51,871] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:54:51,874] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:54:51,875] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:54:51,876] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:54:51,879] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:54:51,882] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:54:51,882] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:54:51,883] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:54:51,884] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:54:52,235] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-18 21:54:52,250] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-18 21:54:52,264] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-18 21:54:52,264] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:54:52,285] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:54:52,286] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:54:52,289] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:54:52,292] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:54:52,293] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:54:52,294] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:54:52,295] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-18 21:54:54,150] @ [INFO] : modelTrainer : Model trained and model files saved to artifacts\t5_model_files
+[2023-08-18 21:54:54,184] @ [INFO] : main : >>>>>>>>>> Stage Model Training and Fine Tuning Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:55:14,848] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-18 21:55:14,854] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:55:14,856] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:55:14,858] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:55:14,859] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:55:14,860] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-18 21:55:14,861] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:55:14,862] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-18 21:55:14,867] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:55:14,870] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:55:14,871] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:55:14,871] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:55:14,872] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-18 21:55:14,874] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-18 21:55:14,874] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:55:14,875] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-18 21:55:14,878] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:55:14,881] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:55:14,882] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:55:14,883] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:55:14,884] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-18 21:55:15,114] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-18 21:55:15,125] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-18 21:55:15,136] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-18 21:55:15,137] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-18 21:55:15,161] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-18 21:55:15,162] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-18 21:55:15,167] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-18 21:55:15,170] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-18 21:55:15,172] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-18 21:55:15,174] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-18 21:55:15,175] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 03:40:26,882] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-20 03:40:26,888] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:40:26,891] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:40:26,892] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:40:26,893] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:40:26,895] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-20 03:40:26,896] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:40:26,898] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-20 03:40:26,903] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:40:26,907] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:40:26,908] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:40:26,909] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:40:26,910] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-20 03:40:26,913] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-20 03:40:26,913] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:40:26,915] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-20 03:40:26,919] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:40:26,922] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:40:26,923] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:40:26,924] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:40:26,925] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-20 03:40:27,333] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-20 03:40:27,360] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-20 03:40:27,387] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-20 03:40:27,388] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-20 03:40:27,407] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:40:27,408] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-20 03:40:27,412] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:40:27,415] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:40:27,416] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:40:27,417] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:40:27,418] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 03:40:31,388] @ [ERROR] : main : The wandb service process exited with 3221225477. Ensure that `sys.executable` is a valid python interpreter. You can override it with the `_executable` setting or with the `WANDB__EXECUTABLE` environment variable.
+[2023-08-20 03:43:14,226] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-20 03:43:14,230] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:43:14,232] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:43:14,233] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:43:14,234] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:43:14,235] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-20 03:43:14,236] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:43:14,237] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-20 03:43:14,240] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:43:14,242] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:43:14,243] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:43:14,244] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:43:14,245] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-20 03:43:14,247] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-20 03:43:14,247] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:43:14,248] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-20 03:43:14,252] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:43:14,255] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:43:14,256] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:43:14,257] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:43:14,258] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-20 03:43:14,621] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-20 03:43:14,633] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-20 03:43:14,645] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-20 03:43:14,647] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-20 03:43:14,665] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:43:14,666] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-20 03:43:14,670] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:43:14,672] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:43:14,673] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:43:14,674] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:43:14,675] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 03:43:15,752] @ [ERROR] : main : [enforce fail at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\c10\core\impl\alloc_cpu.cpp:72] data. DefaultCPUAllocator: not enough memory: you tried to allocate 65798144 bytes.
+[2023-08-20 03:45:26,765] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-20 03:45:26,770] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:45:26,772] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:45:26,773] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:45:26,773] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:45:26,774] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-20 03:45:26,775] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:45:26,776] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-20 03:45:26,780] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:45:26,782] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:45:26,783] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:45:26,784] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:45:26,785] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-20 03:45:26,786] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-20 03:45:26,787] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:45:26,787] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-20 03:45:26,791] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:45:26,793] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:45:26,794] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:45:26,794] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:45:26,795] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-20 03:45:27,074] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-20 03:45:27,086] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-20 03:45:27,096] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-20 03:45:27,097] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-20 03:45:27,116] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:45:27,117] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-20 03:45:27,121] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:45:27,124] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:45:27,125] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:45:27,126] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:45:27,128] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 03:45:29,331] @ [INFO] : modelTrainer : Model trained and model files saved to artifacts\t5_model_files
+[2023-08-20 03:45:29,367] @ [INFO] : main : >>>>>>>>>> Stage Model Training and Fine Tuning Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:45:29,368] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Evaluation on Validation data Stage started <<<<<<<<<< 
+[2023-08-20 03:45:29,368] @ [ERROR] : main : main() missing 1 required positional argument: 'data_transformed'
+[2023-08-20 03:46:50,410] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-20 03:46:50,416] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:46:50,419] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:46:50,420] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:46:50,422] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:46:50,423] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-20 03:46:50,424] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:46:50,425] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-20 03:46:50,431] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:46:50,435] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:46:50,437] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:46:50,438] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:46:50,440] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-20 03:46:50,443] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-20 03:46:50,443] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:46:50,444] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-20 03:46:50,450] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:46:50,453] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:46:50,455] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:46:50,457] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:46:50,458] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-20 03:46:50,803] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\train\cache-3059bff086a24660.arrow
+[2023-08-20 03:46:50,815] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\test\cache-8538a21fc30d09c1.arrow
+[2023-08-20 03:46:50,827] @ [WARNING] : arrow_dataset : Loading cached processed dataset at C:\Users\papu_\OneDrive\Desktop\University Courses\3rd Semester\AWS ML Speciality\Text-Summarizer-AWS-Deployment\artifacts\data_ingestion\samsum_dataset\validation\cache-3b7740ee1fc57b04.arrow
+[2023-08-20 03:46:50,829] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-20 03:46:50,858] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:46:50,859] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-20 03:46:50,865] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:46:50,868] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:46:50,869] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:46:50,870] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:46:50,871] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 03:46:52,967] @ [INFO] : modelTrainer : Model trained and model files saved to artifacts\t5_model_files
+[2023-08-20 03:46:53,007] @ [INFO] : main : >>>>>>>>>> Stage Model Training and Fine Tuning Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 03:46:53,008] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Evaluation on Validation data Stage started <<<<<<<<<< 
+[2023-08-20 03:46:53,013] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 03:46:53,015] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 03:46:53,017] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 03:46:53,018] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 03:47:08,641] @ [INFO] : rouge_scorer : Using default tokenizer.
+[2023-08-20 03:47:08,817] @ [INFO] : stage_05_pipeline_modelEval : Evaluation ROUGE Score: {'rouge1': 0.18542563372949578, 'rouge2': 0.06537028189202101, 'rougeL': 0.15201380444301832, 'rougeLsum': 0.166199940656586} 
+[2023-08-20 03:47:08,868] @ [INFO] : main : >>>>>>>>>> Stage Model Evaluation on Validation data Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:51:03,528] @ [INFO] : utils : Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-08-20 19:51:03,529] @ [INFO] : utils : NumExpr defaulting to 8 threads.
+[2023-08-20 19:52:51,061] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-20 19:52:51,100] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:52:51,119] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:52:51,121] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:52:51,122] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:52:52,261] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip downloaded, with return header Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 576A:3DC0:453A2A:5351AA:64E2A756
+Accept-Ranges: bytes
+Date: Sun, 20 Aug 2023 23:52:54 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100121-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692575574.023028,VS0,VE366
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: aff50554f58c1306949ff1d31a73f193de77a91b
+Expires: Sun, 20 Aug 2023 23:57:54 GMT
+Source-Age: 0
+
+
+[2023-08-20 19:52:52,453] @ [INFO] : dataIngestion : Zip file extracted at artifacts\data_ingestion
+[2023-08-20 19:52:52,454] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:52:52,454] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-20 19:52:52,459] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:52:52,462] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:52:52,463] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:52:52,464] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:52:52,465] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-20 19:52:52,467] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-20 19:52:52,467] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:52:52,468] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-20 19:52:52,472] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:52:52,474] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:52:52,475] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:52:52,476] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:52:52,478] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-20 19:53:00,898] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-20 19:53:00,922] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:53:00,923] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-20 19:53:00,928] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:53:00,931] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:53:00,933] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:53:00,934] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:53:00,935] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 19:53:07,216] @ [INFO] : modelTrainer : Model trained and model files saved to artifacts\t5_model_files
+[2023-08-20 19:53:07,235] @ [INFO] : main : >>>>>>>>>> Stage Model Training and Fine Tuning Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:53:07,236] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Evaluation on Validation data Stage started <<<<<<<<<< 
+[2023-08-20 19:53:07,240] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:53:07,243] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:53:07,244] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:53:07,245] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:53:09,063] @ [ERROR] : main : Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0! (when checking argument for argument index in method wrapper__index_select)
+[2023-08-20 19:54:18,745] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Ingestion Stage started <<<<<<<<<< 
+[2023-08-20 19:54:18,750] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:54:18,754] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:54:18,755] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:54:18,756] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:54:18,756] @ [INFO] : dataIngestion : Data file artifacts\data_ingestion\summarizer-data.zip already exists, with File size: 7718.353515625 kB
+[2023-08-20 19:54:18,757] @ [INFO] : main : >>>>>>>>>> Stage Data Ingestion Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:54:18,758] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Validation Stage started <<<<<<<<<< 
+[2023-08-20 19:54:18,763] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:54:18,765] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:54:18,766] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:54:18,767] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:54:18,768] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-20 19:54:18,769] @ [INFO] : dataValidation : Data Validation status: True
+[2023-08-20 19:54:18,769] @ [INFO] : main : >>>>>>>>>> Stage Data Validation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:54:18,770] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Data Transformation Stage started <<<<<<<<<< 
+[2023-08-20 19:54:18,774] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:54:18,778] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:54:18,779] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:54:18,779] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:54:18,780] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-20 19:54:26,124] @ [INFO] : dataTransformation : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-20 19:54:26,154] @ [INFO] : main : >>>>>>>>>> Stage Data Transformation Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:54:26,155] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Training and Fine Tuning Stage started <<<<<<<<<< 
+[2023-08-20 19:54:26,159] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:54:26,162] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:54:26,164] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:54:26,165] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:54:26,166] @ [INFO] : common : Directory artifacts\t5_model_files created correctly
+[2023-08-20 19:54:28,479] @ [INFO] : modelTrainer : Model trained and model files saved to artifacts\t5_model_files
+[2023-08-20 19:54:28,513] @ [INFO] : main : >>>>>>>>>> Stage Model Training and Fine Tuning Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:54:28,514] @ [INFO] : main : 
+
+ >>>>>>>>>> Stage Model Evaluation on Validation data Stage started <<<<<<<<<< 
+[2023-08-20 19:54:28,518] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:54:28,520] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:54:28,521] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:54:28,521] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 19:54:43,854] @ [INFO] : rouge_scorer : Using default tokenizer.
+[2023-08-20 19:54:44,017] @ [INFO] : stage_05_pipeline_modelEval : Evaluation ROUGE Score: {'rouge1': 0.18542563372949578, 'rouge2': 0.06537028189202101, 'rougeL': 0.15201380444301832, 'rougeLsum': 0.166199940656586} 
+[2023-08-20 19:54:44,051] @ [INFO] : main : >>>>>>>>>> Stage Model Evaluation on Validation data Stage complete <<<<<<<<<< 
+
+
+[2023-08-20 19:56:44,896] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 19:56:44,898] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 19:56:44,900] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 19:56:44,901] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 20:08:22,237] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 20:08:22,256] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 20:08:22,261] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 20:08:22,262] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 20:08:42,376] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 20:08:42,379] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 20:08:42,380] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 20:08:42,381] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 20:09:24,312] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 20:09:24,317] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 20:09:24,319] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 20:09:24,320] @ [INFO] : common : Directory artifacts/data_ingestion created correctly

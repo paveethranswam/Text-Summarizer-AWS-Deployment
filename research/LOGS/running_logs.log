@@ -147,3 +147,220 @@ Source-Age: 0
 [2023-08-16 21:08:37,439] @ [INFO] : common : Directory artifacts created correctly
 [2023-08-16 21:08:37,443] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
 [2023-08-16 21:08:37,443] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:08:56,165] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:08:56,174] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:08:56,177] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:08:56,181] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:08:56,183] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:13:08,025] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:13:08,025] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:13:08,035] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:13:08,035] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:13:08,038] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:18:14,945] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:18:14,949] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:18:14,953] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:18:14,953] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:18:14,957] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:19:55,093] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:19:55,096] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:19:55,100] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:19:55,104] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:19:55,108] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:21:11,917] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:21:11,921] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:21:11,925] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:21:11,929] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:21:11,932] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:21:45,719] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:21:45,723] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:21:45,727] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:21:45,731] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:21:45,735] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:22:16,694] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:22:16,694] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:22:16,700] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:22:16,704] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:22:16,704] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:22:51,117] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:22:51,125] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:22:51,129] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:22:51,133] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:22:51,136] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:23:04,029] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:23:04,036] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:23:04,039] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:23:04,043] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:23:04,047] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:30:16,875] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:30:16,879] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:30:16,882] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:30:16,886] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:30:16,886] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:36:12,825] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 21:36:12,829] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 21:36:12,833] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 21:36:12,839] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 21:36:12,839] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 21:36:12,843] @ [ERROR] : <ipython-input-48-e217e719eb46> : [WinError 3] The system cannot find the path specified: 'artifacts\\data_validation\\samsum_dataset'
+[2023-08-16 22:03:32,612] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:03:32,616] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:03:32,621] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:03:32,627] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:03:32,628] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:03:32,628] @ [ERROR] : <ipython-input-51-e217e719eb46> : [WinError 3] The system cannot find the path specified: 'artifacts\\data_validation\\samsum_dataset'
+[2023-08-16 22:05:14,833] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:05:14,837] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:05:14,837] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:05:14,841] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:05:14,841] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:05:14,845] @ [ERROR] : <ipython-input-55-ed799a196435> : 'DataValidationConfig' object has no attribute 'data_dir'
+[2023-08-16 22:07:14,092] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:07:14,096] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:07:14,100] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:07:14,104] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:07:14,104] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:07:36,835] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:07:36,839] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:07:36,839] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:07:36,843] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:07:36,847] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:08:03,605] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:08:03,609] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:08:03,609] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:08:03,613] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:08:03,616] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:09:31,721] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:09:31,727] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:09:31,728] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:09:31,731] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:09:31,735] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:09:31,742] @ [INFO] : <ipython-input-66-7b2d279c6dd0> : Data Validation status True
+[2023-08-16 22:09:39,308] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-16 22:09:39,312] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-16 22:09:39,316] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-16 22:09:39,316] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-16 22:09:39,321] @ [INFO] : common : Directory artifacts/data_validation created correctly
+[2023-08-16 22:09:39,324] @ [INFO] : <ipython-input-68-a47d829e1e0e> : Data Validation status: True
+[2023-08-17 02:25:22,512] @ [INFO] : utils : Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-08-17 02:25:22,513] @ [INFO] : utils : NumExpr defaulting to 8 threads.
+[2023-08-17 02:44:52,445] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:44:52,448] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:44:52,450] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:44:52,452] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:46:51,265] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:46:51,267] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:46:51,268] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:46:51,270] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:46:51,272] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 02:46:54,558] @ [ERROR] : <ipython-input-110-82ab30e8a16b> : __call__() missing 1 required positional argument: 'text'
+[2023-08-17 02:48:47,269] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:48:47,271] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:48:47,273] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:48:47,274] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:48:47,275] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 02:48:50,419] @ [ERROR] : <ipython-input-115-ff7b6614e11a> : _batch_encode_plus() got an unexpected keyword argument 'target_text'
+[2023-08-17 02:50:13,641] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:50:13,643] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:50:13,644] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:50:13,645] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:50:13,646] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 02:50:16,588] @ [ERROR] : <ipython-input-117-bc2bed96f59b> : __call__() missing 1 required positional argument: 'text'
+[2023-08-17 02:53:21,992] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-17 02:53:21,994] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-17 02:53:21,995] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-17 02:53:21,997] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-17 02:53:21,998] @ [INFO] : common : Directory artifacts/data_transformation created correctly
+[2023-08-17 02:53:31,388] @ [INFO] : <ipython-input-119-d9942e7eb007> : Details about loaded data: DatasetDict({
+    train: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 14732
+    })
+    test: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 819
+    })
+    validation: Dataset({
+        features: ['id', 'dialogue', 'summary', 'input_ids', 'attention_mask', 'labels'],
+        num_rows: 818
+    })
+})
+[2023-08-17 23:13:03,896] @ [INFO] : utils : Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-08-17 23:13:03,900] @ [INFO] : utils : NumExpr defaulting to 8 threads.
+[2023-08-20 02:18:05,880] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:18:05,887] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:18:05,890] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:18:05,891] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:18:56,338] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:18:56,341] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:18:56,342] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:18:56,344] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:22:38,998] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:22:39,002] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:22:39,004] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:22:39,005] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:24:41,020] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:24:41,024] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:24:41,025] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:24:41,027] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:25:00,238] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:25:00,238] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:25:00,246] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:25:00,247] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:27:24,034] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:27:24,037] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:27:24,038] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:27:24,039] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:27:58,749] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:27:58,752] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:27:58,753] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:27:58,755] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:29:06,269] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:29:06,271] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:29:06,273] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:29:06,275] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:30:36,691] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:30:36,694] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:30:36,696] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:30:36,698] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:31:14,983] @ [ERROR] : ultratb : Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+[2023-08-20 02:31:58,624] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:31:58,632] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:31:58,635] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:31:58,637] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:32:42,702] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:32:42,712] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:32:42,715] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:32:42,716] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:34:54,105] @ [INFO] : rouge_scorer : Using default tokenizer.
+[2023-08-20 02:36:19,788] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:36:19,791] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:36:19,793] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:36:19,795] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:36:57,123] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:36:57,127] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:36:57,128] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:36:57,129] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:38:36,425] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:38:36,428] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:38:36,430] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:38:36,432] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:39:48,104] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:39:48,107] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:39:48,109] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:39:48,110] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:41:09,805] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:41:09,809] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:41:09,811] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:41:09,812] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:42:29,479] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:42:29,482] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:42:29,483] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:42:29,485] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:45:37,910] @ [INFO] : common : Path to YAML config\config.yaml loaded correctly
+[2023-08-20 02:45:37,913] @ [INFO] : common : Path to YAML params.yaml loaded correctly
+[2023-08-20 02:45:37,914] @ [INFO] : common : Directory artifacts created correctly
+[2023-08-20 02:45:37,915] @ [INFO] : common : Directory artifacts/data_ingestion created correctly
+[2023-08-20 02:45:54,878] @ [INFO] : rouge_scorer : Using default tokenizer.
